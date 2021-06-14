@@ -1,3 +1,3 @@
 # Strapi application
 
-Sample for heroku
+Sample strapi app for heroku
